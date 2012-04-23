@@ -24,4 +24,4 @@ perl-file-queue
 author, license
 ===============
 
-Written by Ilya V. Matveychikov, distibuted under GPL v2.
+Written by Ilya V. Matveychikov, distributed under GPL v2.
